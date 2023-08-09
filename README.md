@@ -1,2 +1,2 @@
 # Scripts
-I Add Scripts for different things here
+I add scripts for different things here
